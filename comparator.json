@@ -1,0 +1,17 @@
+{
+  "challenge_module": "Challenge",
+  "solution_module": "Solution",
+  "theorem_names": [
+    "APNLinearity.linearity_upper_bounds",
+    "APNLinearity.linearity_bound_of_odd_dimension_and_exact_two_power",
+    "APNLinearity.ranked_walsh_coefficient_bounds",
+    "APNLinearity.second_linearity_bound_of_near_maximal_linearity",
+    "APNLinearity.linearity_bounds_of_nonplateaued_component_count"
+  ],
+  "definition_names": [],
+  "permitted_axioms": [
+    "propext",
+    "Quot.sound",
+    "Classical.choice"
+  ]
+}
